@@ -1,4 +1,5 @@
 Portfolio Website CSS
+
 This repository contains the CSS for a personal portfolio website. The CSS code defines the styles and layout for various sections, including the header, sidebar, main content, footer, and responsive design for mobile devices. Below is an overview of what the code does and how it's structured.
 
 Table of Contents
