@@ -1,4 +1,4 @@
-**# Kennedy Otieno's Portfolio
+## Kennedy Otieno's Portfolio
 
 ## Overview
 This repository contains the source code for Kennedy Otieno's personal portfolio website. The website showcases his professional background, skills, projects, and contact information. It is designed using HTML and CSS and includes downloadable resources such as a CV.
@@ -22,4 +22,4 @@ The website is deployed using **Netlify** for fast and efficient hosting. Any up
 - **Email:** 001otienokennedy@gmail.com  
 - **LinkedIn:** [Kennedy Otieno](https://www.linkedin.com/in/kennedy-otieno-36042a213/)  
 - **X (Twitter):** [@OtienoK68413362](https://x.com/OtienoK68413362)
-**
+  
